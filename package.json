@@ -1,0 +1,32 @@
+{
+  "name": "dinstar",
+  "version": "0.0.1",
+  "description": "Dinstar DGW2000 series new API for Node.js",
+  "keywords": [
+    "dinstar",
+    "DGW2000",
+    "api"
+  ],
+  "homepage": "https://github.com/tsypa/dinstar#readme",
+  "bugs": {
+    "url": "https://github.com/tsypa/dinstar/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Maxim Tsyplakov",
+    "email": "<maxim.tsyplakov@gmail.com>",
+    "url": "http://flex.oganer.net"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsypa/dinstar.git"
+  },
+  "scripts": {
+    "test": "echo no tests yet"
+  },
+  "dependencies": {
+    "lodash": "^4.12.0",
+    "request": "^2.72.0"
+  }
+}
